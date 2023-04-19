@@ -1,8 +1,15 @@
-# Обо мне
+<p align="center"> 
+<img src="https://sun9-32.userapi.com/impg/28Nrx89i2aoYdTRL68Ylfm-7johIorgXkeqSMQ/rj5fgyV5mc4.jpg?size=1620x2160&quality=95&sign=0dcc5a5cacfa08313f3cee9caff8a418&type=album.jpeg" width="500">
+</p>
 
+# Оразование
+Обучаюсь на втором курсе Российского технологического университета МИРЭА (специалитет)
+# Обо мне
+Учавствую в разработке ПО, алгоритмов и систем для обработки спупутниковой информации, а так же предоставление ее через веб-сайт (прект кафедры РЭСК)
+Совершенствую навыки на платформе "Stepik", более 1300 решенных задач
 ### Сертификаты
 |                                                                                                       URL                                                                                                       | Description    |    Status     |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------|:-------------:|
-|["Поколение Python": курс для продвинутых](https://stepik.org/certificate/3f6cf4db8bd8d67338acf33d2f79ae82f9d7cfa5.pdf) | Описание курса | **Completed** |
-|["Поколение Python": курс для начинающих](https://stepik.org/certificate/eed8fb1b13c73fe4e0e8ff9f13e9e91fac8a2060.pdf)  | Описание курса | **Completed** |
+|[Stepik](https://stepik.org/certificate/3f6cf4db8bd8d67338acf33d2f79ae82f9d7cfa5.pdf) | "Поколение Python": курс для продвинутых | **Completed** |
+|[Stepik](https://stepik.org/certificate/eed8fb1b13c73fe4e0e8ff9f13e9e91fac8a2060.pdf)  | "Поколение Python": курс для начинающих | **Completed** |
 
