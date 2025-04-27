@@ -24,6 +24,7 @@ Python:
 # Курсы
 |URL | Description    |    Status     |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------|:-------------:|
+|[Stepik]([https://stepik.org/certificate/eed8fb1b13c73fe4e0e8ff9f13e9e91fac8a2060.pdf](https://stepik.org/certificate/155d586092345ff803b861bce9270009c8d9d084.png?resolution=medium))  | "ООП: Объектно-ориентированное программирование на Python | **Completed** |
 |[Stepik](https://stepik.org/certificate/3f6cf4db8bd8d67338acf33d2f79ae82f9d7cfa5.pdf) | "Поколение Python": курс для продвинутых | **Completed** |
 |[Stepik](https://stepik.org/certificate/eed8fb1b13c73fe4e0e8ff9f13e9e91fac8a2060.pdf)  | "Поколение Python": курс для начинающих | **Completed** |
 
